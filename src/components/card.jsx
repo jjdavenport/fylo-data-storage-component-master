@@ -1,5 +1,4 @@
 import ToolTip from "./tooltip";
-
 const Card = () => {
   return (
     <>
