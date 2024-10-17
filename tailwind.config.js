@@ -21,6 +21,9 @@ export default {
       borderRadius: {
         custom: "6rem",
       },
+      backgroundSize: {
+        half: "100% 50%",
+      },
     },
   },
   plugins: [],
